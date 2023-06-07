@@ -1,4 +1,4 @@
-## All the bash commands that I've used in practical and commercial projects.
+## All the bash commands that I've used in practical and commercial projects
 ```bash
 # Navigating Directories
 pwd                                              # Print current directory path
